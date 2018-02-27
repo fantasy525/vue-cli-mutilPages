@@ -1,0 +1,2 @@
+webpackJsonp([2],{F1xi:function(n,e){},KnSE:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r=t("/5sW"),i=t("mtWM"),o=t.n(i),s={name:"Person",created:function(){console.log(o.a)}},c={render:function(){var n=this.$createElement;return(this._self._c||n)("div",{attrs:{id:"person"}},[this._v("\n 个人页面\n \n")])},staticRenderFns:[]};var u=t("VU/8")(s,c,!1,function(n){t("F1xi")},null,null).exports;r.a.config.productionTip=!1,new r.a({el:"#person",render:function(n){return n(u)}})}},["KnSE"]);
+//# sourceMappingURL=person.fe44e5ff7429f4f2239d.js.map
